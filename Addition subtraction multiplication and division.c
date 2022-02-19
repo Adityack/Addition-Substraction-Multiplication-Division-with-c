@@ -1,6 +1,6 @@
 /*******************************************
 Statement - Addition, Substraction, Multiplication, Division
-Programmer - Aditya Maji
+Auther - Aditya
 Written For - need2know.online
 ********************************************/
 #include<stdio.h>
