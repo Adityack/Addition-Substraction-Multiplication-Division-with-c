@@ -19,9 +19,9 @@ void main()
     multiplication=a*b;
     division=a/b;
     printf("The Addition of a b is %d",addition);
-    printf("The Addition of a b is %d",substraction);
-    printf("The Addition of a b is %d",multiplication);
-    printf("The Addition of a b is %f",division);
+    printf("\nThe Addition of a b is %d",substraction);
+    printf("\nThe Addition of a b is %d",multiplication);
+    printf("\nThe Addition of a b is %f",division);
     getch();
 }
 //
